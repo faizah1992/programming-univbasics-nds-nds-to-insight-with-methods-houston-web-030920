@@ -30,7 +30,7 @@ def directors_totals(nds)
     total= gross_for_director(director)
     result[directorname]=total
     director_index+=1 
-end
-result
+  end
+  result
 end
 
